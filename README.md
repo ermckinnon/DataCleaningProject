@@ -13,5 +13,7 @@ The R script performs the following process:
 -	Produces a tidy summary data set based on the mean of each extracted feature for each subject and activity they undertook. There are a total of 180 combinations (30 subjects each doing the 6 activities) around which the mean of each feature has been caclulated.
 -	The tidy dataset is written as a text file called "tidydata.txt" into your working directory.
 
+Addditional comments are provided in the script file to explain how the code works.
+
 Further information on the actual dataset and how the original data was produced can be found at the following link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
