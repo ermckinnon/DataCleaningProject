@@ -1,9 +1,8 @@
 # DataCleaningProject
-This is a repository for Data Cleaning Course Project
-This R script file run_analysis.R processes the Samsung data set at the link below. 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
-In order for the script to work you need to store the data in your working directory for R
-The folder with all the data "UCI HAR Dataset" must be in your working directory.
+This is a repository for the Coursera Data Cleaning Course Project. The R script file run_analysis.R processes the Samsung data set at the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+
+In order for the script to work you need to store the data in your working directory for R. The folder with all the data "UCI HAR Dataset" must be in your working directory.
+
 The R script performs the following process:
 -	Merges the training and the test sets to create a single dataset
 -	Coercing all feature names to valid R names
