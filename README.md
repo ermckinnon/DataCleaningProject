@@ -10,7 +10,7 @@ The R script performs the following process:
 -	Coerces all feature names to valid R names. The feature names are scientifically complex so a full codebook is also provided
 -	Extracts only measurements on the mean and standard deviation for each measurement. In practice only the features with “mean” and “std” in their names are extracted.
 -	Labels the activities undertaken by the trial subjects – walking, standing etc
--	Produces a tidy summary data set based on the mean of each selected feature for each subject and activity they undertook. There are a total of 180 combinations (30 subjects each doing the 6 activities) around which the mean of each feature has been caclulated.
+-	Produces a tidy summary data set based on the mean of each extracted feature for each subject and activity they undertook. There are a total of 180 combinations (30 subjects each doing the 6 activities) around which the mean of each feature has been caclulated.
 -	The tidy dataset is written as a text file into your working directory.
 
 Further information on the actual dataset and how the original data was produced can be found at the following link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
