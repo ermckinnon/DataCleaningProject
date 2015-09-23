@@ -3,7 +3,9 @@ The r script file in this repository -  run_analysis.R  - produces an text file 
 
 #Identifier variables
 There are two identifier variables:
-Subject - represents each unique volunteer who took part in trial and collected data. There were 30 and this variable is an integer from 1 to 30.
+
+Subject - represents each unique volunteer who took part in the trial and collected data. There were 30 psubjects and this variable is an integer from 1 to 30 representing each.
+
 Activity - represents the activity that the subject was doing while carrying their phone. There are 6 activities:
 WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING. This variable is a string of characters.
 
