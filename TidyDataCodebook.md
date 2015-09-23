@@ -15,8 +15,8 @@ Tidydata contains summary means of the mean and standard deviation of each featu
 
 # Variable Names and Desciptions
 
-tBodyAcc.mean...X	   Mean of mean of  body acceleration signals across x axis
-tBodyAcc.mean...Y	   Mean of mean of  body acceleration signals across y axis
+tBodyAcc.mean...X	Mean of mean of  body acceleration signals across x axis
+tBodyAcc.mean...Y	Mean of mean of  body acceleration signals across y axis
 tBodyAcc.mean...Z	Mean of mean of  body acceleration signals across z axis
 tBodyAcc.std...X	Mean of Standard Deviation of  body acceleration signals across x axis
 tBodyAcc.std...Y	Mean of Standard Deviation of  body acceleration signals across y axis
