@@ -16,82 +16,160 @@ Tidydata contains summary means of the mean and standard deviation of each featu
 # Variable Names and Desciptions
 
 tBodyAcc.mean...X	Mean of mean of  body acceleration signals across x axis
+
 tBodyAcc.mean...Y	Mean of mean of  body acceleration signals across y axis
+
 tBodyAcc.mean...Z	Mean of mean of  body acceleration signals across z axis
+
 tBodyAcc.std...X	Mean of Standard Deviation of  body acceleration signals across x axis
+
 tBodyAcc.std...Y	Mean of Standard Deviation of  body acceleration signals across y axis
+
 tBodyAcc.std...Z	Mean of Standard Deviation of  body acceleration signals across z axis
+
 tGravityAcc.mean...X	Mean of mean of  gravity acceleration signals across x axis
+
 tGravityAcc.mean...Y	Mean of mean of  gravity acceleration signals across y axis
+
 tGravityAcc.mean...Z	Mean of mean of  gravity acceleration signals across z axis
+
 tGravityAcc.std...X	Mean of Standard Deviation of  gravity acceleration signals across x axis
+
 tGravityAcc.std...Y	Mean of Standard Deviation of  gravity acceleration signals across y axis
+
 tGravityAcc.std...Z	Mean of Standard Deviation of  gravity acceleration signals across z axis
+
 tBodyAccJerk.mean...X	Mean of mean of  body acceleration jerk signals across x axis
+
 tBodyAccJerk.mean...Y	Mean of mean of  body acceleration jerk signals across y axis
+
 tBodyAccJerk.mean...Z	Mean of mean of  body acceleration jerk signals across z axis
+
 tBodyAccJerk.std...X	Mean of Standard Deviation of  body acceleration jerk signals across x axis
+
 tBodyAccJerk.std...Y	Mean of Standard Deviation of  body acceleration jerk signals across y axis
+
 tBodyAccJerk.std...Z	Mean of Standard Deviation of  body acceleration jerk signals across z axis
+
 tBodyGyro.mean...X	Mean of mean of  body gyro signals across x axis
+
 tBodyGyro.mean...Y	Mean of mean of  body gyro signals across y axis
+
 tBodyGyro.mean...Z	Mean of mean of  body gyro signals across z axis
+
 tBodyGyro.std...X	Mean of Standard Deviation of  body gyro signals across x axis
+
 tBodyGyro.std...Y	Mean of Standard Deviation of  body gyro signals across y axis
+
 tBodyGyro.std...Z	Mean of Standard Deviation of  body gyro signals across z axis
+
 tBodyGyroJerk.mean...X	Mean of mean of  body gyro jerk signals across x axis
+
 tBodyGyroJerk.mean...Y	Mean of mean of  body gyro jerk signals across y axis
+
 tBodyGyroJerk.mean...Z	Mean of mean of  body gyro jerk signals across z axis
+
 tBodyGyroJerk.std...X	Mean of Standard Deviation of  body gyro jerk signals across x axis
+
 tBodyGyroJerk.std...Y	Mean of Standard Deviation of  body gyro jerk signals across y axis
+
 tBodyGyroJerk.std...Z	Mean of Standard Deviation of  body gyro jerk signals across z axis
+
 tBodyAccMag.mean..	Mean of mean of  body acceleration signals  magnitude 
+
 tBodyAccMag.std..	Mean of Standard Deviation of  body acceleration signals  magnitude 
+
 tGravityAccMag.mean..	Mean of mean of  gravity acceleration signals  magnitude 
+
 tGravityAccMag.std..	Mean of Standard Deviation of  gravity acceleration signals  magnitude 
+
 tBodyAccJerkMag.mean..	Mean of mean of  body acceleration jerk signals  magnitude 
+
 tBodyAccJerkMag.std..	Mean of Standard Deviation of  body acceleration jerk signals  magnitude 
+
 tBodyGyroMag.mean..	Mean of mean of  body gyro signals  magnitude 
+
 tBodyGyroMag.std..	Mean of Standard Deviation of  body gyro signals  magnitude 
+
 tBodyGyroJerkMag.mean..	Mean of mean of  body gyro jerk signals  magnitude 
+
 tBodyGyroJerkMag.std..	Mean of Standard Deviation of  body gyro jerk signals  magnitude 
+
 fBodyAcc.mean...X	Mean of mean of  body acceleration signals  in frequency domain across x axis
+
 fBodyAcc.mean...Y	Mean of mean of  body acceleration signals  in frequency domain across y axis
+
 fBodyAcc.mean...Z	Mean of mean of  body acceleration signals  in frequency domain across z axis
+
 fBodyAcc.std...X	Mean of Standard Deviation of  body acceleration signals  in frequency domain across x axis
+
 fBodyAcc.std...Y	Mean of Standard Deviation of  body acceleration signals  in frequency domain across y axis
+
 fBodyAcc.std...Z	Mean of Standard Deviation of  body acceleration signals  in frequency domain across z axis
+
 fBodyAcc.meanFreq...X	Mean of mean of  body acceleration frequency signals  in frequency domain across x axis
+
 fBodyAcc.meanFreq...Y	Mean of mean of  body acceleration frequency signals  in frequency domain across y axis
+
 fBodyAcc.meanFreq...Z	Mean of mean of  body acceleration frequency signals  in frequency domain across z axis
+
 fBodyAccJerk.mean...X	Mean of mean of  body acceleration jerk signals  in frequency domain across x axis
+
 fBodyAccJerk.mean...Y	Mean of mean of  body acceleration jerk signals  in frequency domain across y axis
+
 fBodyAccJerk.mean...Z	Mean of mean of  body acceleration jerk signals  in frequency domain across z axis
+
 fBodyAccJerk.std...X	Mean of Standard Deviation of  body acceleration jerk signals  in frequency domain across x axis
+
 fBodyAccJerk.std...Y	Mean of Standard Deviation of  body acceleration jerk signals  in frequency domain across y axis
+
 fBodyAccJerk.std...Z	Mean of Standard Deviation of  body acceleration jerk signals  in frequency domain across z axis
+
 fBodyAccJerk.meanFreq...X	Mean of mean of  body acceleration jerk frequency signals  in frequency domain across x axis
+
 fBodyAccJerk.meanFreq...Y	Mean of mean of  body acceleration jerk frequency signals  in frequency domain across y axis
+
 fBodyAccJerk.meanFreq...Z	Mean of mean of  body acceleration jerk frequency signals  in frequency domain across z axis
+
 fBodyGyro.mean...X	Mean of mean of  body gyro signals  in frequency domain across x axis
+
 fBodyGyro.mean...Y	Mean of mean of  body gyro signals  in frequency domain across y axis
+
 fBodyGyro.mean...Z	Mean of mean of  body gyro signals  in frequency domain across z axis
+
 fBodyGyro.std...X	Mean of Standard Deviation of  body gyro signals  in frequency domain across x axis
+
 fBodyGyro.std...Y	Mean of Standard Deviation of  body gyro signals  in frequency domain across y axis
+
 fBodyGyro.std...Z	Mean of Standard Deviation of  body gyro signals  in frequency domain across z axis
+
 fBodyGyro.meanFreq...X	Mean of mean of  body gyro frequency signals  in frequency domain across x axis
+
 fBodyGyro.meanFreq...Y	Mean of mean of  body gyro frequency signals  in frequency domain across y axis
+
 fBodyGyro.meanFreq...Z	Mean of mean of  body gyro frequency signals  in frequency domain across z axis
+
 fBodyAccMag.mean..	Mean of mean of  body acceleration signal magnitude in frequency domain 
+
 fBodyAccMag.std..	Mean of Standard Deviation of  body acceleration signal magnitude in frequency domain 
+
 fBodyAccMag.meanFreq..	Mean of mean of  body acceleration frequency signal magnitude in frequency domain 
+
 fBodyBodyAccJerkMag.mean..	Mean of mean of  body acceleration jerk signal magnitude in frequency domain 
+
 fBodyBodyAccJerkMag.std..	Mean of Standard Deviation of  body acceleration jerk signal magnitude in frequency domain 
+
 fBodyBodyAccJerkMag.meanFreq..	Mean of mean of  body acceleration jerk frequency signal magnitude in frequency domain 
+
 fBodyBodyGyroMag.mean..	Mean of mean of  body gyro signal magnitude  in frequency domain 
+
 fBodyBodyGyroMag.std..	Mean of Standard Deviation of  body gyro signal magnitude  in frequency domain 
+
 fBodyBodyGyroMag.meanFreq..	Mean of mean of  body gyro frequency signal magnitude  in frequency domain 
+
 fBodyBodyGyroJerkMag.mean..	Mean of mean of  body gyro jerk signal magnitude  in frequency domain 
+
 fBodyBodyGyroJerkMag.std..	Mean of Standard Deviation of  body gyro jerk signal magnitude  in frequency domain 
+
 fBodyBodyGyroJerkMag.meanFreq..	Mean of mean of  body gyro jerk frequency signal magnitude  in frequency domain 
 
