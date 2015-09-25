@@ -1,6 +1,6 @@
 # Code Book for tidydata.txt File
  
-#Code Desciption
+#Code Description
 The R script file in this repository -  run_analysis.R  - produces an text file called tidydata.txt.
 The R script file processes the Samsung data set at the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
