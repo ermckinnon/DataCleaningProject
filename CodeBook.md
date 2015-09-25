@@ -1,5 +1,12 @@
 # Code Book for tidydata.txt File
-The r script file in this repository -  run_analysis.R  - produces an text file called tidydata.txt. This text file contains 180 observations of 81 variables - 2 identifier variables and 79 feature variables. Taking each in turn.
+ 
+#Code Desciption
+The r script file in this repository -  run_analysis.R  - produces an text file called tidydata.txt.
+
+#Variables Description
+This text file contains 180 observations of 81 variables - 2 identifier variables and 79 feature variables. Taking each in turn.
+
+
 
 #Identifier variables
 There are two identifier variables:
